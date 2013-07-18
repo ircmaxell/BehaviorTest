@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/css-selector": "2.3.*",
+        "guzzle/guzzle": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "BehaviorTest": "lib"
+        }
+    }
+}
